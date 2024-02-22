@@ -1,4 +1,4 @@
-mineral,name,key,type,internationalCompanyName,officeCountry,oreOutputs,oreUnits,grossRevenues,netProfits,totalTax,CSR,CSRpercent
+mineral,name,key,type,internationalCompanyName,officeCountry,oreOutputs,oreUnits,grossRevenues,netProfit,totalTax,CSR,CSRpercent
 diamond,Anjin Investments,anjin,International Company,Anhui Foreign Economic Construction Group,China,853510,carats,10317834,,,,
 diamond,RioZim,riod,Local Company,RZM Murowa,,3563650,carats,328351000,2900000,63960000,2630000,0.80
 diamond,Zimbabwe Consolidated Diamond Mining Company,zcdmc,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,11313308,carats,997940352,177263574,184588231,5000000,0.50
