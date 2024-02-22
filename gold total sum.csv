@@ -1,7 +1,6 @@
 mineral,name,key,type,internationalCompanyName,officeCountry,ore outputs,ore units,gross revenues,net profits,total tax,CSR,CSRpercent
-Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,1591,kg,69762000,12756000,,,
-Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,8800,kg,365225000,89414000,30897155,2800000,0.77
+Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,10392,kg,434987000,1021700000,30897155,2800000,0.64
 Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,289,kg,11080159,166292041,57450,,
 Gold,Kuvimba Mining House,kuvimba,Local Company (GoZ),,,5906,kg,,,,,
 Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,8274,kg,56263045,44998740,,,
-Gold,ZMDC,zmdc,Local Company,,Zimbabwe,2377.39,kg,25313663,-51038919,,,
+Gold,ZMDC,zmdc,Local Company,,Zimbabwe,2377,kg,25313663,-51038919,,,
