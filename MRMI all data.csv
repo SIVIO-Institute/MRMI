@@ -1,70 +1,70 @@
 mineral,name,key,type,internationalCompanyName,officeCountry,year,oreOutputs,oreUnits,grossRevenues,netProfit,totalTax,CSR,CSRpercent,sourceName,sourceURL
-Chrome,Apple Bridge Investements,applebri, Local Company (GoZ),,Zimbabwe,2021,194546.00,kg,10417447.88,,,,0.0%,Chamber of Mines,
+Chrome,Apple Bridge Investements,applebri, Local Company (GoZ),,Zimbabwe,2021,194546,kg,10417447.88,,,,0.0%,Chamber of Mines,
 Chrome,Zimasco,zimasco,International Company,Sinosteel Corporation,China,2021,117480.71,kg,5210439.78,,,,0.0%,Chamber of Mines,
-Chrome,Zimasco,zimasco,International Company,Sinosteel Corporation,China,2020,,,,,,344000.00,0.0%,Zimasco CSR report,https://zimasco.co.zw/category/csr/  
-Chrome,Zimasco,zimasco,International Company,Sinosteel Corporation,China,2017,350000.00,kg,,,,,0.0%,The Herald,https://www.herald.co.zw/zimasco-turns-the-bend-operating-at-80pc-capacity/
+Chrome,Zimasco,zimasco,International Company,Sinosteel Corporation,China,2020,,,,,,344000,0.0%,Zimasco CSR report,https://zimasco.co.zw/category/csr/  
+Chrome,Zimasco,zimasco,International Company,Sinosteel Corporation,China,2017,350000,kg,,,,,0.0%,The Herald,https://www.herald.co.zw/zimasco-turns-the-bend-operating-at-80pc-capacity/
 Diamond,Anjin Investments,anjin,International Company,Anhui Foreign Economic Construction Group,China,2017,,,,,,,0.0%,,
 Diamond,Anjin Investments,anjin,International Company,Anhui Foreign Economic Construction Group,China,2018,,,,,,,0.0%,,
 Diamond,Anjin Investments,anjin,International Company,Anhui Foreign Economic Construction Group,China,2019,,,,,,,0.0%,,
-Diamond,Anjin Investments,anjin,International Company,Anhui Foreign Economic Construction Group,China,2020,790000.00,carats,,,,,0.0%,,
-Diamond,Anjin Investments,anjin,International Company,Anhui Foreign Economic Construction Group,China,2021,63510.00,carats,10317834.60,,,,0.0%,Chamber of Mines,
-Diamond,RioZim,riod,Local Company,RZM Murowa,,2017,732045.00,carats,79640000.00,1400000.00,3610000.00,,0.0%,,
-Diamond,RioZim,riod,Local Company,RZM Murowa,,2018,740244.00,carats,83860000.00,1500000.00,4440000.00,,0.0%,,
-Diamond,RioZim,riod,Local Company,RZM Murowa,,2019,685000.00,carats,,,17210000.00,450000.00,0.0%,,
-Diamond,RioZim,riod,Local Company,RZM Murowa,,2020,553044.00,carats,73450000.00,,17700000.00,1140000.00,1.6%,,
-Diamond,RioZim,riod,Local Company,RZM Murowa,,2021,414000.00,carats,53084264.00,-21227616.00,6603561.00,1040000.00,2.0%,,
-Diamond,RioZim,riod,Local Company,RZM Murowa,,2022,426000.00,carats,30096302.00,-26822572.00,11583962.00,,0.0%,,
-Diamond,Zimbabwe Consolidated Diamond Mining Company,zcdmc,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,2017," 1,776,384.00 ",carats," 272,657.00 ","-15,355,141.00 "," 6,300,335.00 ",,0.0%,ZCDC 2017 Annual report,https://www.zcdco.com/wp-content/uploads/2020/07/ZCDC-2017-Annual-Report.pdf
-Diamond,Zimbabwe Consolidated Diamond Mining Company,zcdmc,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,2018," 2,766,576.00 ",carats," 12,777,759.00 ","-55,355,140.00 "," 17,871,037.00 "," 5,000,000.00 ",39.1%,ZCDC 2018 Annual Report,https://www.zcdco.com/wp-content/uploads/2020/07/ZCDC-2018-Annual-Report.pdf
-Diamond,Zimbabwe Consolidated Diamond Mining Company,zcdmc,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,2019," 1,647,223.00 ",carats," 315,885,458.00 "," 276,334,384.00 "," 149,138,867.00 ",,0.0%,,
-Diamond,Zimbabwe Consolidated Diamond Mining Company,zcdmc,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,2020," 1,375,455.00 ",carats," 68,392,012.00 ","-28,360,529.00 "," 11,276,613.00 ",,0.0%,,
-Diamond,Zimbabwe Consolidated Diamond Mining Company,zcdmc,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,2021," 4,019,206.00 ",carats," 102,156,581.00 "," 23,761,118.00 "," 8,387,910.00 ",,0.0%,Chamber of Mines,
-Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2017," 1,591.30 ",kg," 69,762,000.00 "," 12,756,000.00 ",,,0.0%,,
-Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2018," 1,545.30 ",kg," 68,399,000.00 "," 13,756,000.00 "," 6,594,000.00 ",,0.0%,Caledonia Mining Integrated Report 2020,https://wp-caledoniamining-2020.s3.eu-west-2.amazonaws.com/media/2021/09/06072008/CaledoniaMining_IR_2020-1.pdf
-Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2019," 1,563.30 ",kg," 75,826,000.00 "," 50,401,000.00 "," 9,337,000.00 "," 47,000.00 ",0.1%,Caledonia Mining Integrated Report 2020,https://wp-caledoniamining-2020.s3.eu-west-2.amazonaws.com/media/2021/09/06072008/CaledoniaMining_IR_2020-1.pdf
-Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2020," 1,641.40 ",kg," 100,000,000.00 "," 25,257,000.00 "," 12,500,000.00 "," 1,689,000.00 ",1.7%,Caledonia Mining Integrated Report 2020,https://wp-caledoniamining-2020.s3.eu-west-2.amazonaws.com/media/2021/09/06072008/CaledoniaMining_IR_2020-1.pdf
-Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2021," 1,912.91 ",kg," 121,329,000.00 "," 23,142,000.00 "," 14,857,000.00 "," 1,163,000.00 ",1.0%,Caledonia Mining Integrated Report 2021,https://wp-caledoniamining-2020.s3.eu-west-2.amazonaws.com/media/2022/08/Caledonia-Mining-Integrated-Report-2021.pdf
-Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2022," 2,290.00 ",kg," 142,082,000.00 "," 22,866,000.00 "," 16,770,000.00 "," 888,000.00 ",0.6%,,
-Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2023," 2,138.00 ",kg," 146,314,000.00 ","-618,000.00 "," 12,810,000.00 "," 1,491,000.00 ",1.0%,,
-Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,2017, 159.00 ,kg," 6,894,732.00 ","-684,074.00 "," 50,000.00 ",,0.0%,Falcon Gold Consolidated Financials 2018,https://drive.google.com/file/d/1GUOq-GNektYnPz2BQKRiFuLFRSEhPh52/view
-Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,2018, 78.00 ,kg," 2,586,834.00 ","-1,681,348.00 "," 7,450.00 ",,0.0%,Annual Report,
-Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,2019, 52.41 ,kg," 1,516,767.10 ","-27,224,725.00 ",,,0.0%,Annual Report,
-Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,2020,,," 81,826.30 "," 195,882,188.00 ",,,0.0%,,
+Diamond,Anjin Investments,anjin,International Company,Anhui Foreign Economic Construction Group,China,2020,790000,carats,,,,,0.0%,,
+Diamond,Anjin Investments,anjin,International Company,Anhui Foreign Economic Construction Group,China,2021,63510,carats,10317834.6,,,,0.0%,Chamber of Mines,
+Diamond,RioZim,riod,Local Company,RZM Murowa,,2017,732045,carats,79640000,1400000,3610000,,0.0%,,
+Diamond,RioZim,riod,Local Company,RZM Murowa,,2018,740244,carats,83860000,1500000,4440000,,0.0%,,
+Diamond,RioZim,riod,Local Company,RZM Murowa,,2019,685000,carats,,,17210000,450000,0.0%,,
+Diamond,RioZim,riod,Local Company,RZM Murowa,,2020,553044,carats,73450000,,17700000,1140000,1.6%,,
+Diamond,RioZim,riod,Local Company,RZM Murowa,,2021,414000,carats,53084264,-21227616,6603561,1040000,2.0%,,
+Diamond,RioZim,riod,Local Company,RZM Murowa,,2022,426000,carats,30096302,-26822572,11583962,,0.0%,,
+Diamond,Zimbabwe Consolidated Diamond Mining Company,zcdmc,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,2017,1776384,carats,272657,-15355141,6300335,,0.0%,ZCDC 2017 Annual report,https://www.zcdco.com/wp-content/uploads/2020/07/ZCDC-2017-Annual-Report.pdf
+Diamond,Zimbabwe Consolidated Diamond Mining Company,zcdmc,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,2018,2766576,carats,12777759,-55355140,17871037,5000000,39.1%,ZCDC 2018 Annual Report,https://www.zcdco.com/wp-content/uploads/2020/07/ZCDC-2018-Annual-Report.pdf
+Diamond,Zimbabwe Consolidated Diamond Mining Company,zcdmc,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,2019,1647223,carats,315885458,276334384,149138867,,0.0%,,
+Diamond,Zimbabwe Consolidated Diamond Mining Company,zcdmc,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,2020,1375455,carats,68392012,-28360529,11276613,,0.0%,,
+Diamond,Zimbabwe Consolidated Diamond Mining Company,zcdmc,Local Company (GoZ),Defold Mine (Pvt) Ltd,Zimbabwe,2021,4019206,carats,102156581,23761118,8387910,,0.0%,Chamber of Mines,
+Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2017,1591.3,kg,69762000,12756000,,,0.0%,,
+Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2018,1545.3,kg,68399000,13756000,6594000,,0.0%,Caledonia Mining Integrated Report 2020,https://wp-caledoniamining-2020.s3.eu-west-2.amazonaws.com/media/2021/09/06072008/CaledoniaMining_IR_2020-1.pdf
+Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2019,1563.3,kg,75826000,50401000,9337000,47000,0.1%,Caledonia Mining Integrated Report 2020,https://wp-caledoniamining-2020.s3.eu-west-2.amazonaws.com/media/2021/09/06072008/CaledoniaMining_IR_2020-1.pdf
+Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2020,1641.4,kg,100000000,25257000,12500000,1689000,1.7%,Caledonia Mining Integrated Report 2020,https://wp-caledoniamining-2020.s3.eu-west-2.amazonaws.com/media/2021/09/06072008/CaledoniaMining_IR_2020-1.pdf
+Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2021,1912.91,kg,121329000,23142000,14857000,1163000,1.0%,Caledonia Mining Integrated Report 2021,https://wp-caledoniamining-2020.s3.eu-west-2.amazonaws.com/media/2022/08/Caledonia-Mining-Integrated-Report-2021.pdf
+Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2022,2290,kg,142082000,22866000,16770000,888000,0.6%,,
+Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2023,2138,kg,146314000,-618000,12810000,1491000,1.0%,,
+Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,2017,159,kg,6894732,-684074,50000,,0.0%,Falcon Gold Consolidated Financials 2018,https://drive.google.com/file/d/1GUOq-GNektYnPz2BQKRiFuLFRSEhPh52/view
+Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,2018,78,kg,2586834,-1681348,7450,,0.0%,Annual Report,
+Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,2019,52.41,kg,1516767.1,-27224725,,,0.0%,Annual Report,
+Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,2020,,,81826.3,195882188,,,0.0%,,
 Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,2021,,,,,,,0.0%,,
-Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,2022, 929.00 ,,,,,,0.0%,,
+Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,2022,929,,,,,,0.0%,,
 Gold,Kuvimba Mining House,kuvimba,Local Company (GoZ),,,2017,,,,,,,0.0%,,
-Gold,Kuvimba Mining House,kuvimba,Local Company (GoZ),,,2020," 2,692.00 ",kg,,,,,0.0%,,
-Gold,Kuvimba Mining House,kuvimba,Local Company (GoZ),,,2021," 3,275.39 ",kg,,,,,0.0%,,
-Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2017," 2,071.00 ",kg," 28,279,000.00 "," 8,075,000.00 ",,,0.0%,,
-Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2018," 1,792.00 ",kg," 13,414,000.00 "," 2,256,000.00 ",,,0.0%,,
-Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2019," 1,658.00 ",kg," 847,107.90 "," 34,667,740.00 ",,,0.0%,,
-Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2020," 1,632.00 ",kg," 13,527,900.66 ",,,,0.0%,RIOZIM report,https://www.riozim.co.zw/?wpdmact=process&did=OTUuaG90bGluaw==
-Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2021," 1,121.00 ",kg," 195,036.83 ",,,,0.0%,RIOZIM report,https://www.riozim.co.zw/?wpdmact=process&did=OTUuaG90bGluaw==
-Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2022, 929.00 ,kg," 29,285,026.00 ","-29,285,026.00 "," 13,997,853.00 ",,0.0%,,
-Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2023, 940.00 ,kg," 35,394,579.00 ","-15,693,609.00 "," 2,631,911.00 ",,0.0%,,
-Gold,ZMDC,zmdc,Local Company,,Zimbabwe,2018, 396.10 ,kg," 48,135.00 ",,,,0.0%,ZMDC Annual Report,https://zmdc.co.zw/assets/files/ZMDC-ANNUALREPORT-2019.pdf
-Gold,ZMDC,zmdc,Local Company,,Zimbabwe,2019, 425.00 ,kg," 8,287,225.00 ",,,,0.0%,ZMDC Annual Report,https://zmdc.co.zw/assets/files/ZMDC-ANNUALREPORT-2019.pdf
-Gold,ZMDC,zmdc,Local Company,,Zimbabwe,2020, 444.60 ,kg," 5,748,228.00 ",,,,0.0%,ZMDC Annual Report,https://zmdc.co.zw/assets/files/ZMDC-ANNUALREPORT2020.pdf
-Gold,ZMDC,zmdc,Local Company,,Zimbabwe,2021, 523.30 ,kg," 10,388,695.00 ","-57,870,324.00 ",,,0.0%,,
-Gold,ZMDC,zmdc,Local Company,,Zimbabwe,2022, 588.39 ,kg," 841,380.00 "," 6,831,405.00 ",,,0.0%,,
-Platinum,Mimosa,mimosa,International Company,Sibanye Still Water,South Africa,2017,,," 255,320,400.00 "," 198,852,200.00 ",," 242,700.00 ",0.1%,,
-Platinum,Mimosa,mimosa,International Company,Sibanye Still Water,South Africa,2018," 125,000.00 ",ounces," 270,164,400.00 "," 235,627,920.00 "," 15,457,860.00 "," 222,816.00 ",0.1%,Implats 2018 Report,https://implats-ir.co.za/reports/implats-ir-2018/implats-air-2018/pdf/implats-iar-2018-new.pdf
-Platinum,Mimosa,mimosa,International Company,Sibanye Still Water,South Africa,2019," 122,000.00 ",ounces," 291,720,000.00 "," 291,720,000.00 "," 13,483,000.00 "," 3,000,000.00 ",1.0%,Implats Annual Integrated Report 2019,https://www.implats.co.za/pdf/annual-reports/annual-integrated-report/2019/implats-air-2019.pdf
-Platinum,Mimosa,mimosa,International Company,Sibanye Still Water,South Africa,2020," 248,000.00 ",ounces," 347,335,200.00 "," 316,675,500.00 "," 34,747,200.00 ",,0.0%,Implats Annual Report 2020,http://www.implats.co.za/pdf/annual-reports/reports/2020/implats-air-2020.pdf
-Platinum,Mimosa,mimosa,International Company,Sibanye Still Water,South Africa,2021," 261,000.00 ",ounces," 648,121,600.00 "," 391,561,500.00 "," 90,701,800.00 ",,0.0%,Implats Annual Report 2021,https://www.implats.co.za/pdf/annual-reports/annual-integrated-report/2021/integrated-report-2021.pdf
-Platinum,Mimosa,mimosa,International Company,Sibanye Still Water,South Africa,2022," 246,000.00 ",ounces," 231,864,600.00 "," 127,624,309.40 ",,,0.0%,Implats Annual Integrated Report 2022,https://www.implats.co.za/pdf/annual-reports/annual-integrated-report/2022/integrated-report-2022.pdf
-Platinum,Mimosa,mimosa,International Company,Sibanye Still Water,South Africa,2023,,ounces," 75,000,000.00 ","-111,000,000.00 "," 25,000,000.00 ",,0.0%,,
-Platinum,Unki Mine (Pvt) Limited,unki,International Company,Anglo-American,United Kingdom,2017,,ounces," 201,069,570.60 ",," 17,300,000.00 "," 400,000.00 ",0.2%,Anglo American Tax and Economic Contribution Report,https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2018/tax-and-economic-contribution-report-2017.pdf
-Platinum,Unki Mine (Pvt) Limited,unki,International Company,Anglo-American,United Kingdom,2018," 89,400.00 ",ounces," 159,670,122.00 "," 56,879,454.00 ",," 700,000.00 ",0.4%,Anglo American Country by Country Report 2018 Anglo American Tax and Economic Contribution Report 2018,https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2019/anglo-american-country-by-country-report-2018-revised-july-2021.pdf https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2019/tax-and-economic-contribution-report-2018-full.pdf
-Platinum,Unki Mine (Pvt) Limited,unki,International Company,Anglo-American,United Kingdom,2019," 89,500.00 ",ounces," 285,026,598.00 "," 70,852,064.00 "," 28,100,000.00 "," 1,100,000.00 ",0.4%,Anglo American Country by Country Report 2019 Anglo American Tax and Economic Contribution Report 2019,https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2020/anglo-american-country-by-country-report-2019.pdf https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2020/tax-and-economic-contribution-report.pdf
-Platinum,Unki Mine (Pvt) Limited,unki,International Company,Anglo-American,United Kingdom,2020," 196,000.00 ",ounces," 326,692,764.00 "," 144,976,376.00 "," 44,500,000.00 "," 1,100,000.00 ",0.3%,Anglo American Country by Country Report 2020 Anglo American Tax and Economic Contribution Report 2020,https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2021/anglo-american-country-by-country-report-2020.pdf https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2021/tax-and-economic-contribution-report-2020.pdf
-Platinum,Unki Mine (Pvt) Limited,unki,International Company,Anglo-American,United Kingdom,2021," 205,000.00 ",ounces," 536,888,991.00 "," 200,052,489.00 "," 127,900,000.00 "," 900,000.00 ",0.2%,Chamber of Mines Anglo American Tax and Economic Contribution Report 2021,https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2022/tax-and-economic-contribution-report-2021.pdf
-Platinum,Unki Mine (Pvt) Limited,unki,International Company,Anglo-American,United Kingdom,2022," 232,100.00 ",ounces,,,,,0.0%,,
-Platinum,Zimplats,zimplats,International Company,Implats Pvt Ltd,South Africa,2017," 281,100.00 ",ounces," 5,000,000.00 "," 4,383,000.00 ",,,0.0%,Zimplats 2017 Annual Report,https://www.zimplats.com/data/2017/10/AR2017.pdf
-Platinum,Zimplats,zimplats,International Company,Implats Pvt Ltd,South Africa,2018," 270,700.00 ",ounces," 12,150,000.00 "," 9,038,000.00 "," 1,823,000.00 "," 6,000,000.00 ",49.4%,Zimplats 2018 Annual Report; Zimplats Social Investment Report 2018,https://www.zimplats.com/data/2018/09/ar2018.pdf; https://www.zimplats.com/social-investments-2018/
-Platinum,Zimplats,zimplats,International Company,Implats Pvt Ltd,South Africa,2019," 269,900.00 ",ounces," 59,627,000.00 "," 48,922,000.00 "," 8,944,000.00 "," 3,784,554.00 ",6.3%,Zimplats 2019 Annual Report,https://www.zimplats.com/data/2019/11/2019_Integrated_Report_.pdf
-Platinum,Zimplats,zimplats,International Company,Implats Pvt Ltd,South Africa,2020," 580,200.00 ",ounces," 81,000,000.00 "," 67,049,000.00 "," 12,150,000.00 "," 2,628,194.00 ",3.2%,Zimplats 2020 Annual Report,https://www.zimplats.com/data/2020/10/ZIMPLATS-INTEGRATED-ANNUAL-REPORT-2020.pdf
-Platinum,Zimplats,zimplats,International Company,Implats Pvt Ltd,South Africa,2021," 579,000.00 ",ounces," 328,500,000.00 "," 280,222,000.00 "," 49,275,000.00 "," 2,987,761.00 ",0.9%,Chamber of Mines Zimplats 2021 Annual Report,https://www.zimplats.com/data/2021/10/2021-INTEGRATED-ANNUAL-REPORT.pdf
-Platinum,Zimplats,zimplats,International Company,Implats Pvt Ltd,South Africa,2022," 583,492.00 ",ounces," 1,240,000,000.00 "," 353,600,000.00 "," 240,000,000.00 "," 4,304,720.00 ",0.3%,,
-Platinum,Zimplats,zimplats,International Company,Implats Pvt Ltd,South Africa,2023," 611,226.00 ",," 962,300,000.00 "," 205,500,000.00 "," 81,300,000.00 "," 4,747,260.00 ",0.5%,,
-Platinum,Unki Mine (Pvt) Limited,unki,International Company,Anglo-American,United Kingdom,2023," 243,800.00 ",ounces,,,,,0.0%,,
+Gold,Kuvimba Mining House,kuvimba,Local Company (GoZ),,,2020,2692,kg,,,,,0.0%,,
+Gold,Kuvimba Mining House,kuvimba,Local Company (GoZ),,,2021,3275.39,kg,,,,,0.0%,,
+Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2017,2071,kg,28279000,8075000,,,0.0%,,
+Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2018,1792,kg,13414000,2256000,,,0.0%,,
+Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2019,1658,kg,847107.9,34667740,,,0.0%,,
+Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2020,1632,kg,13527900.66,,,,0.0%,RIOZIM report,https://www.riozim.co.zw/?wpdmact=process&did=OTUuaG90bGluaw==
+Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2021,1121,kg,195036.83,,,,0.0%,RIOZIM report,https://www.riozim.co.zw/?wpdmact=process&did=OTUuaG90bGluaw==
+Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2022,929,kg,29285026,-29285026,13997853,,0.0%,,
+Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2023,940,kg,35394579,-15693609,2631911,,0.0%,,
+Gold,ZMDC,zmdc,Local Company,,Zimbabwe,2018,396.1,kg,48135,,,,0.0%,ZMDC Annual Report,https://zmdc.co.zw/assets/files/ZMDC-ANNUALREPORT-2019.pdf
+Gold,ZMDC,zmdc,Local Company,,Zimbabwe,2019,425,kg,8287225,,,,0.0%,ZMDC Annual Report,https://zmdc.co.zw/assets/files/ZMDC-ANNUALREPORT-2019.pdf
+Gold,ZMDC,zmdc,Local Company,,Zimbabwe,2020,444.6,kg,5748228,,,,0.0%,ZMDC Annual Report,https://zmdc.co.zw/assets/files/ZMDC-ANNUALREPORT2020.pdf
+Gold,ZMDC,zmdc,Local Company,,Zimbabwe,2021,523.3,kg,10388695,-57870324,,,0.0%,,
+Gold,ZMDC,zmdc,Local Company,,Zimbabwe,2022,588.39,kg,841380,6831405,,,0.0%,,
+Platinum,Mimosa,mimosa,International Company,Sibanye Still Water,South Africa,2017,,,255320400,198852200,,242700,0.1%,,
+Platinum,Mimosa,mimosa,International Company,Sibanye Still Water,South Africa,2018,125000,ounces,270164400,235627920,15457860,222816,0.1%,Implats 2018 Report,https://implats-ir.co.za/reports/implats-ir-2018/implats-air-2018/pdf/implats-iar-2018-new.pdf
+Platinum,Mimosa,mimosa,International Company,Sibanye Still Water,South Africa,2019,122000,ounces,291720000,291720000,13483000,3000000,1.0%,Implats Annual Integrated Report 2019,https://www.implats.co.za/pdf/annual-reports/annual-integrated-report/2019/implats-air-2019.pdf
+Platinum,Mimosa,mimosa,International Company,Sibanye Still Water,South Africa,2020,248000,ounces,347335200,316675500,34747200,,0.0%,Implats Annual Report 2020,http://www.implats.co.za/pdf/annual-reports/reports/2020/implats-air-2020.pdf
+Platinum,Mimosa,mimosa,International Company,Sibanye Still Water,South Africa,2021,261000,ounces,648121600,391561500,90701800,,0.0%,Implats Annual Report 2021,https://www.implats.co.za/pdf/annual-reports/annual-integrated-report/2021/integrated-report-2021.pdf
+Platinum,Mimosa,mimosa,International Company,Sibanye Still Water,South Africa,2022,246000,ounces,231864600,127624309.4,,,0.0%,Implats Annual Integrated Report 2022,https://www.implats.co.za/pdf/annual-reports/annual-integrated-report/2022/integrated-report-2022.pdf
+Platinum,Mimosa,mimosa,International Company,Sibanye Still Water,South Africa,2023,,ounces,75000000,-111000000,25000000,,0.0%,,
+Platinum,Unki Mine (Pvt) Limited,unki,International Company,Anglo-American,United Kingdom,2017,,ounces,201069570.6,,17300000,400000,0.2%,Anglo American Tax and Economic Contribution Report,https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2018/tax-and-economic-contribution-report-2017.pdf
+Platinum,Unki Mine (Pvt) Limited,unki,International Company,Anglo-American,United Kingdom,2018,89400,ounces,159670122,56879454,,700000,0.4%,Anglo American Country by Country Report 2018 Anglo American Tax and Economic Contribution Report 2018,https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2019/anglo-american-country-by-country-report-2018-revised-july-2021.pdf https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2019/tax-and-economic-contribution-report-2018-full.pdf
+Platinum,Unki Mine (Pvt) Limited,unki,International Company,Anglo-American,United Kingdom,2019,89500,ounces,285026598,70852064,28100000,1100000,0.4%,Anglo American Country by Country Report 2019 Anglo American Tax and Economic Contribution Report 2019,https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2020/anglo-american-country-by-country-report-2019.pdf https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2020/tax-and-economic-contribution-report.pdf
+Platinum,Unki Mine (Pvt) Limited,unki,International Company,Anglo-American,United Kingdom,2020,196000,ounces,326692764,144976376,44500000,1100000,0.3%,Anglo American Country by Country Report 2020 Anglo American Tax and Economic Contribution Report 2020,https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2021/anglo-american-country-by-country-report-2020.pdf https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2021/tax-and-economic-contribution-report-2020.pdf
+Platinum,Unki Mine (Pvt) Limited,unki,International Company,Anglo-American,United Kingdom,2021,205000,ounces,536888991,200052489,127900000,900000,0.2%,Chamber of Mines Anglo American Tax and Economic Contribution Report 2021,https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2022/tax-and-economic-contribution-report-2021.pdf
+Platinum,Unki Mine (Pvt) Limited,unki,International Company,Anglo-American,United Kingdom,2022,232100,ounces,,,,,0.0%,,
+Platinum,Zimplats,zimplats,International Company,Implats Pvt Ltd,South Africa,2017,281100,ounces,5000000,4383000,,,0.0%,Zimplats 2017 Annual Report,https://www.zimplats.com/data/2017/10/AR2017.pdf
+Platinum,Zimplats,zimplats,International Company,Implats Pvt Ltd,South Africa,2018,270700,ounces,12150000,9038000,1823000,6000000,49.4%,Zimplats 2018 Annual Report; Zimplats Social Investment Report 2018,https://www.zimplats.com/data/2018/09/ar2018.pdf; https://www.zimplats.com/social-investments-2018/
+Platinum,Zimplats,zimplats,International Company,Implats Pvt Ltd,South Africa,2019,269900,ounces,59627000,48922000,8944000,3784554,6.3%,Zimplats 2019 Annual Report,https://www.zimplats.com/data/2019/11/2019_Integrated_Report_.pdf
+Platinum,Zimplats,zimplats,International Company,Implats Pvt Ltd,South Africa,2020,580200,ounces,81000000,67049000,12150000,2628194,3.2%,Zimplats 2020 Annual Report,https://www.zimplats.com/data/2020/10/ZIMPLATS-INTEGRATED-ANNUAL-REPORT-2020.pdf
+Platinum,Zimplats,zimplats,International Company,Implats Pvt Ltd,South Africa,2021,579000,ounces,328500000,280222000,49275000,2987761,0.9%,Chamber of Mines Zimplats 2021 Annual Report,https://www.zimplats.com/data/2021/10/2021-INTEGRATED-ANNUAL-REPORT.pdf
+Platinum,Zimplats,zimplats,International Company,Implats Pvt Ltd,South Africa,2022,583492,ounces,1240000000,353600000,240000000,4304720,0.3%,,
+Platinum,Zimplats,zimplats,International Company,Implats Pvt Ltd,South Africa,2023,611226,,962300000,205500000,81300000,4747260,0.5%,,
+Platinum,Unki Mine (Pvt) Limited,unki,International Company,Anglo-American,United Kingdom,2023,243800,ounces,,,,,0.0%,,
