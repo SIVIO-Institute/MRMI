@@ -1,29 +1,29 @@
 mineral,name,key,type,internationalCompanyName,officeCountry,year,oreOutputs,oreUnits,grossRevenues,netProfit,totalTax,CSR,CSRpercent,sourceName,sourceURL
-Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2017," 1,591.30 ",kg," 69,762,000.00 "," 12,756,000.00 ",,,0.0%,,
-Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2018," 1,545.30 ",kg," 68,399,000.00 "," 13,756,000.00 "," 6,594,000.00 ",,0.0%,Caledonia Mining Integrated Report 2020,https://wp-caledoniamining-2020.s3.eu-west-2.amazonaws.com/media/2021/09/06072008/CaledoniaMining_IR_2020-1.pdf
-Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2019," 1,563.30 ",kg," 75,826,000.00 "," 50,401,000.00 "," 9,337,000.00 "," 47,000.00 ",0.1%,Caledonia Mining Integrated Report 2020,https://wp-caledoniamining-2020.s3.eu-west-2.amazonaws.com/media/2021/09/06072008/CaledoniaMining_IR_2020-1.pdf
-Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2020," 1,641.40 ",kg," 100,000,000.00 "," 25,257,000.00 "," 12,500,000.00 "," 1,689,000.00 ",1.7%,Caledonia Mining Integrated Report 2020,https://wp-caledoniamining-2020.s3.eu-west-2.amazonaws.com/media/2021/09/06072008/CaledoniaMining_IR_2020-1.pdf
-Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2021," 1,912.91 ",kg," 121,329,000.00 "," 23,142,000.00 "," 14,857,000.00 "," 1,163,000.00 ",1.0%,Caledonia Mining Integrated Report 2021,https://wp-caledoniamining-2020.s3.eu-west-2.amazonaws.com/media/2022/08/Caledonia-Mining-Integrated-Report-2021.pdf
-Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2022," 2,290.00 ",kg," 142,082,000.00 "," 22,866,000.00 "," 16,770,000.00 "," 888,000.00 ",0.6%,,
-Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2023," 2,138.00 ",kg," 146,314,000.00 ","-618,000.00 "," 12,810,000.00 "," 1,491,000.00 ",1.0%,,
-Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,2017, 159.00 ,kg," 6,894,732.00 ","-684,074.00 "," 50,000.00 ",,0.0%,Falcon Gold Consolidated Financials 2018,https://drive.google.com/file/d/1GUOq-GNektYnPz2BQKRiFuLFRSEhPh52/view
-Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,2018, 78.00 ,kg," 2,586,834.00 ","-1,681,348.00 "," 7,450.00 ",,0.0%,Annual Report,
-Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,2019, 52.41 ,kg," 1,516,767.10 ","-27,224,725.00 ",,,0.0%,Annual Report,
-Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,2020,,," 81,826.30 "," 195,882,188.00 ",,,0.0%,,
+Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2017,1591.3,kg,69762000,12756000,,,0.0%,,
+Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2018,1545.3,kg,68399000,13756000,6594000,,0.0%,Caledonia Mining Integrated Report 2020,https://wp-caledoniamining-2020.s3.eu-west-2.amazonaws.com/media/2021/09/06072008/CaledoniaMining_IR_2020-1.pdf
+Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2019,1563.3,kg,75826000,50401000,9337000,47000,0.1%,Caledonia Mining Integrated Report 2020,https://wp-caledoniamining-2020.s3.eu-west-2.amazonaws.com/media/2021/09/06072008/CaledoniaMining_IR_2020-1.pdf
+Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2020,1641.4,kg,100000000,25257000,12500000,1689000,1.7%,Caledonia Mining Integrated Report 2020,https://wp-caledoniamining-2020.s3.eu-west-2.amazonaws.com/media/2021/09/06072008/CaledoniaMining_IR_2020-1.pdf
+Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2021,1912.91,kg,121329000,23142000,14857000,1163000,1.0%,Caledonia Mining Integrated Report 2021,https://wp-caledoniamining-2020.s3.eu-west-2.amazonaws.com/media/2022/08/Caledonia-Mining-Integrated-Report-2021.pdf
+Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2022,2290,kg,142082000,22866000,16770000,888000,0.6%,,
+Gold,Caledonia Blanket Mine,cale,International Company,,United Kingdom,2023,2138,kg,146314000,-618000,12810000,1491000,1.0%,,
+Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,2017,159,kg,6894732,-684074,50000,,0.0%,Falcon Gold Consolidated Financials 2018,https://drive.google.com/file/d/1GUOq-GNektYnPz2BQKRiFuLFRSEhPh52/view
+Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,2018,78,kg,2586834,-1681348,7450,,0.0%,Annual Report,
+Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,2019,52.41,kg,1516767.1,-27224725,,,0.0%,Annual Report,
+Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,2020,,,81826.3,195882188,,,0.0%,,
 Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,2021,,,,,,,0.0%,,
-Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,2022, 929.00 ,,,,,,0.0%,,
+Gold,Falcon Gold,falcon,Local Company,New Dawn Mining Corp,Zimbabwe,2022,929,,,,,,0.0%,,
 Gold,Kuvimba Mining House,kuvimba,Local Company (GoZ),,,2017,,,,,,,0.0%,,
-Gold,Kuvimba Mining House,kuvimba,Local Company (GoZ),,,2020," 2,692.00 ",kg,,,,,0.0%,,
-Gold,Kuvimba Mining House,kuvimba,Local Company (GoZ),,,2021," 3,275.39 ",kg,,,,,0.0%,,
-Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2017," 2,071.00 ",kg," 28,279,000.00 "," 8,075,000.00 ",,,0.0%,,
-Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2018," 1,792.00 ",kg," 13,414,000.00 "," 2,256,000.00 ",,,0.0%,,
-Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2019," 1,658.00 ",kg," 847,107.90 "," 34,667,740.00 ",,,0.0%,,
-Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2020," 1,632.00 ",kg," 13,527,900.66 ",,,,0.0%,RIOZIM report,https://www.riozim.co.zw/?wpdmact=process&did=OTUuaG90bGluaw==
-Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2021," 1,121.00 ",kg," 195,036.83 ",,,,0.0%,RIOZIM report,https://www.riozim.co.zw/?wpdmact=process&did=OTUuaG90bGluaw==
-Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2022, 929.00 ,kg," 29,285,026.00 ","-29,285,026.00 "," 13,997,853.00 ",,0.0%,,
-Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2023, 940.00 ,kg," 35,394,579.00 ","-15,693,609.00 "," 2,631,911.00 ",,0.0%,,
-Gold,ZMDC,zmdc,Local Company,,Zimbabwe,2018, 396.10 ,kg," 48,135.00 ",,,,0.0%,ZMDC Annual Report,https://zmdc.co.zw/assets/files/ZMDC-ANNUALREPORT-2019.pdf
-Gold,ZMDC,zmdc,Local Company,,Zimbabwe,2019, 425.00 ,kg," 8,287,225.00 ",,,,0.0%,ZMDC Annual Report,https://zmdc.co.zw/assets/files/ZMDC-ANNUALREPORT-2019.pdf
-Gold,ZMDC,zmdc,Local Company,,Zimbabwe,2020, 444.60 ,kg," 5,748,228.00 ",,,,0.0%,ZMDC Annual Report,https://zmdc.co.zw/assets/files/ZMDC-ANNUALREPORT2020.pdf
-Gold,ZMDC,zmdc,Local Company,,Zimbabwe,2021, 523.30 ,kg," 10,388,695.00 ","-57,870,324.00 ",,,0.0%,,
-Gold,ZMDC,zmdc,Local Company,,Zimbabwe,2022, 588.39 ,kg," 841,380.00 "," 6,831,405.00 ",,,0.0%,,
+Gold,Kuvimba Mining House,kuvimba,Local Company (GoZ),,,2020,2692,kg,,,,,0.0%,,
+Gold,Kuvimba Mining House,kuvimba,Local Company (GoZ),,,2021,3275.39,kg,,,,,0.0%,,
+Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2017,2071,kg,28279000,8075000,,,0.0%,,
+Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2018,1792,kg,13414000,2256000,,,0.0%,,
+Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2019,1658,kg,847107.9,34667740,,,0.0%,,
+Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2020,1632,kg,13527900.66,,,,0.0%,RIOZIM report,https://www.riozim.co.zw/?wpdmact=process&did=OTUuaG90bGluaw==
+Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2021,1121,kg,195036.83,,,,0.0%,RIOZIM report,https://www.riozim.co.zw/?wpdmact=process&did=OTUuaG90bGluaw==
+Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2022,929,kg,29285026,-29285026,13997853,,0.0%,,
+Gold,RioZim,rio,Local Company,RioGold,Zimbabwe,2023,940,kg,35394579,-15693609,2631911,,0.0%,,
+Gold,ZMDC,zmdc,Local Company,,Zimbabwe,2018,396.1,kg,48135,,,,0.0%,ZMDC Annual Report,https://zmdc.co.zw/assets/files/ZMDC-ANNUALREPORT-2019.pdf
+Gold,ZMDC,zmdc,Local Company,,Zimbabwe,2019,425,kg,8287225,,,,0.0%,ZMDC Annual Report,https://zmdc.co.zw/assets/files/ZMDC-ANNUALREPORT-2019.pdf
+Gold,ZMDC,zmdc,Local Company,,Zimbabwe,2020,444.6,kg,5748228,,,,0.0%,ZMDC Annual Report,https://zmdc.co.zw/assets/files/ZMDC-ANNUALREPORT2020.pdf
+Gold,ZMDC,zmdc,Local Company,,Zimbabwe,2021,523.3,kg,10388695,-57870324,,,0.0%,,
+Gold,ZMDC,zmdc,Local Company,,Zimbabwe,2022,588.39,kg,841380,6831405,,,0.0%,,
