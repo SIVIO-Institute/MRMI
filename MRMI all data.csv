@@ -1,8 +1,8 @@
 mineral,name,key,type,internationalCompanyName,officeCountry,year,oreOutputs,oreUnits,grossRevenues,netProfit,totalTax,CSR,CSRpercent,sourceName,sourceURL
 Chrome,Apple Bridge Investements,applebri, Local Company (GoZ),,Zimbabwe,2021,194546,kg,10417447.88,,,,0.0%,Chamber of Mines,
-Chrome,Zimasco,zimasco,International Company,Sinosteel Corporation,China,2021,117480.71,kg,5210439.78,,,,0.0%,Chamber of Mines,
-Chrome,Zimasco,zimasco,International Company,Sinosteel Corporation,China,2020,,,,,,344000,0.0%,Zimasco CSR report,https://zimasco.co.zw/category/csr/  
 Chrome,Zimasco,zimasco,International Company,Sinosteel Corporation,China,2017,350000,kg,,,,,0.0%,The Herald,https://www.herald.co.zw/zimasco-turns-the-bend-operating-at-80pc-capacity/
+Chrome,Zimasco,zimasco,International Company,Sinosteel Corporation,China,2020,,,,,,344000,0.0%,Zimasco CSR report,https://zimasco.co.zw/category/csr/  
+Chrome,Zimasco,zimasco,International Company,Sinosteel Corporation,China,2021,117480.71,kg,5210439.78,,,,0.0%,Chamber of Mines,
 Diamond,Anjin Investments,anjin,International Company,Anhui Foreign Economic Construction Group,China,2017,,,,,,,0.0%,,
 Diamond,Anjin Investments,anjin,International Company,Anhui Foreign Economic Construction Group,China,2018,,,,,,,0.0%,,
 Diamond,Anjin Investments,anjin,International Company,Anhui Foreign Economic Construction Group,China,2019,,,,,,,0.0%,,
@@ -60,7 +60,7 @@ Platinum,Unki Mine (Pvt) Limited,unki,International Company,Anglo-American,Unite
 Platinum,Unki Mine (Pvt) Limited,unki,International Company,Anglo-American,United Kingdom,2020,196000,ounces,326692764,144976376,44500000,1100000,0.3%,Anglo American Country by Country Report 2020 Anglo American Tax and Economic Contribution Report 2020,https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2021/anglo-american-country-by-country-report-2020.pdf https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2021/tax-and-economic-contribution-report-2020.pdf
 Platinum,Unki Mine (Pvt) Limited,unki,International Company,Anglo-American,United Kingdom,2021,205000,ounces,536888991,200052489,127900000,900000,0.2%,Chamber of Mines Anglo American Tax and Economic Contribution Report 2021,https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2022/tax-and-economic-contribution-report-2021.pdf
 Platinum,Unki Mine (Pvt) Limited,unki,International Company,Anglo-American,United Kingdom,2022,232100,ounces,,,73000000,4000000,0.0%,,
-,Unki Mine (Pvt) Limited,unki,International Company,Anglo-American,United Kingdom,2023,,ounces,,,24000000,5000000,0.0%,,
+Platinum,Unki Mine (Pvt) Limited,unki,International Company,Anglo-American,United Kingdom,2023,243800,ounces,,,24000000,5000000,0.0%,,
 Platinum,Zimplats,zimplats,International Company,Implats Pvt Ltd,South Africa,2017,281100,ounces,5000000,4383000,,,0.0%,Zimplats 2017 Annual Report,https://www.zimplats.com/data/2017/10/AR2017.pdf
 Platinum,Zimplats,zimplats,International Company,Implats Pvt Ltd,South Africa,2018,270700,ounces,12150000,9038000,1823000,6000000,49.4%,Zimplats 2018 Annual Report; Zimplats Social Investment Report 2018,https://www.zimplats.com/data/2018/09/ar2018.pdf; https://www.zimplats.com/social-investments-2018/
 Platinum,Zimplats,zimplats,International Company,Implats Pvt Ltd,South Africa,2019,269900,ounces,59627000,48922000,8944000,3784554,6.3%,Zimplats 2019 Annual Report,https://www.zimplats.com/data/2019/11/2019_Integrated_Report_.pdf
@@ -68,4 +68,3 @@ Platinum,Zimplats,zimplats,International Company,Implats Pvt Ltd,South Africa,20
 Platinum,Zimplats,zimplats,International Company,Implats Pvt Ltd,South Africa,2021,579000,ounces,328500000,280222000,49275000,2987761,0.9%,Chamber of Mines Zimplats 2021 Annual Report,https://www.zimplats.com/data/2021/10/2021-INTEGRATED-ANNUAL-REPORT.pdf
 Platinum,Zimplats,zimplats,International Company,Implats Pvt Ltd,South Africa,2022,583492,ounces,1240000000,353600000,240000000,4304720,0.3%,,
 Platinum,Zimplats,zimplats,International Company,Implats Pvt Ltd,South Africa,2023,611226,,962300000,205500000,81300000,4747260,0.5%,,
-Platinum,Unki Mine (Pvt) Limited,unki,International Company,Anglo-American,United Kingdom,2023,243800,ounces,,,,,0.0%,,
